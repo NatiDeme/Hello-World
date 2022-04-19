@@ -1,2 +1,5 @@
 # No need for node files
 node_modules/
+
+# Ignore files with .md file extension 
+.md
